@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.MyButton{
+  background-color: #61dafb !important;
+}
+
+.MyButton:hover{
+  background-color: yellow !important;
+}
+
+.MyButton.Mui-disabled{
+  background-color: red !important;
+}
